@@ -1,4 +1,5 @@
-<img width="1040" height="312" alt="image" src="https://github.com/user-attachments/assets/7189ac6a-ddb5-4e3f-a5a0-079f93ff91d9" /># OSecret
+# OSecret
+
 **Category: MISC**
 
 ## Overview
