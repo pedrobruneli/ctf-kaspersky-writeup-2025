@@ -2,7 +2,7 @@
 **Category: MISC**
 
 ## Overview
-In this challange we have an "web game" called pythagoreus temple, the first screen that we see is the above:
+In this challenge we have an "web game" called pythagoreus temple, the first screen that we see:
 <img width="1848" height="908" alt="image" src="https://github.com/user-attachments/assets/1b214dc7-3365-47be-a6e2-2c3eb0089a16" />
 
 At first we see the message "your flag is inside, come and find it!. Bruh, you're an antic statue and can't move"
